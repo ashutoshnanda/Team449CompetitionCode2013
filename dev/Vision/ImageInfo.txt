@@ -1,0 +1,8 @@
+Image1, Image 2
+58.5 to camera
+16.5 to target
+
+
+Green1, Green2
+No calibration (same heights as Image1, Image 2, about 12 feet, camera may not be horizontal)
+Only intended for rectangle detection.
